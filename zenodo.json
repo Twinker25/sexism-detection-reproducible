@@ -1,0 +1,23 @@
+{
+    "title": "Reproducible Experiment Environment for Sexism Detection in Social Media",
+    "description": "Повний відтворюваний артефактний пакет обчислювального експерименту з ідентифікації гендерної дискримінації (сексизму) у соціальних медіа на основі аугментованого датасету SDET+SSMB. Містить код попередньої обробки та навчання класифікаторів, конфігурацію Docker/Docker Compose, DVC-трекінг даних та зафіксовані логи метрик і моделей у системі MLflow.",
+    "creators": [
+      {
+        "name": "Shashok, Daniil",
+        "affiliation": "Khmelnytskyi National University",
+        "orcid": "0000-0000-0000-0000"
+      }
+    ],
+    "access_right": "open",
+    "license": "MIT",
+    "keywords": [
+      "reproducibility",
+      "sexism detection",
+      "gender discrimination",
+      "natural language processing",
+      "machine learning",
+      "docker",
+      "mlflow",
+      "open science"
+    ]
+  }
